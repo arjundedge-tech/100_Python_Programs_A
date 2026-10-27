@@ -1,0 +1,6 @@
+print(6+9)
+print(132-49)
+print(6*6)
+print(17/3)
+print(2**15)
+print((4+6)*8)
